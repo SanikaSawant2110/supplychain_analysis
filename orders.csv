@@ -1,0 +1,301 @@
+Order_ID,Product,Region,Order_Date,Delivery_Date,Quantity,Order_Status
+O001,Tablet,East,2025-01-13,2025-01-16,15,Delayed
+O002,Tablet,East,2025-01-11,2025-01-16,83,Delivered
+O003,Smartphone,North,2025-02-07,2025-02-08,58,In Transit
+O004,Smartphone,East,2025-02-17,2025-02-20,99,Delayed
+O005,Monitor,East,2025-01-21,2025-01-25,91,Delayed
+O006,Tablet,West,2025-01-30,2025-01-31,44,Delivered
+O007,Monitor,West,2025-01-28,2025-02-01,28,In Transit
+O008,Monitor,West,2025-02-03,2025-02-08,56,Delivered
+O009,Smartphone,South,2025-01-07,2025-01-08,97,In Transit
+O010,Tablet,North,2025-03-01,2025-03-06,97,Delayed
+O011,Laptop,East,2025-03-24,2025-03-27,65,Delivered
+O012,Smartphone,North,2025-02-03,2025-02-08,90,In Transit
+O013,Keyboard,North,2025-02-17,2025-02-19,86,In Transit
+O014,Laptop,South,2025-02-09,2025-02-11,82,Delivered
+O015,Smartphone,West,2025-03-10,2025-03-12,80,Delivered
+O016,Smartphone,East,2025-01-28,2025-02-02,61,Delayed
+O017,Smartphone,North,2025-01-16,2025-01-18,53,Delivered
+O018,Laptop,South,2025-01-01,2025-01-02,18,Delivered
+O019,Smartphone,South,2025-03-27,2025-03-31,83,Delayed
+O020,Laptop,West,2025-01-25,2025-01-26,55,In Transit
+O021,Laptop,West,2025-03-28,2025-03-29,53,Delivered
+O022,Smartphone,East,2025-01-18,2025-01-22,69,Delivered
+O023,Laptop,North,2025-03-12,2025-03-13,21,Delivered
+O024,Smartphone,West,2025-02-21,2025-02-22,10,In Transit
+O025,Smartphone,South,2025-03-13,2025-03-17,47,Delivered
+O026,Laptop,West,2025-02-10,2025-02-11,74,Delayed
+O027,Laptop,South,2025-01-09,2025-01-14,61,Delivered
+O028,Monitor,East,2025-03-21,2025-03-22,43,Delivered
+O029,Tablet,West,2025-02-20,2025-02-22,50,Delivered
+O030,Keyboard,South,2025-01-13,2025-01-14,74,In Transit
+O031,Tablet,South,2025-02-01,2025-02-04,66,Delayed
+O032,Tablet,North,2025-03-27,2025-04-01,27,In Transit
+O033,Keyboard,South,2025-02-04,2025-02-07,53,Delivered
+O034,Laptop,North,2025-03-04,2025-03-07,91,In Transit
+O035,Smartphone,West,2025-01-17,2025-01-20,80,Delayed
+O036,Tablet,South,2025-03-11,2025-03-12,65,Delivered
+O037,Smartphone,South,2025-01-06,2025-01-09,95,Delivered
+O038,Smartphone,South,2025-03-21,2025-03-23,32,In Transit
+O039,Tablet,South,2025-02-22,2025-02-24,99,Delivered
+O040,Tablet,East,2025-01-26,2025-01-30,39,Delivered
+O041,Tablet,East,2025-02-05,2025-02-06,92,Delayed
+O042,Smartphone,East,2025-01-15,2025-01-18,14,Delivered
+O043,Keyboard,North,2025-02-10,2025-02-14,59,Delayed
+O044,Smartphone,East,2025-03-08,2025-03-13,65,Delivered
+O045,Keyboard,East,2025-01-16,2025-01-19,95,In Transit
+O046,Monitor,West,2025-01-17,2025-01-19,96,Delayed
+O047,Smartphone,West,2025-02-08,2025-02-11,84,Delayed
+O048,Smartphone,North,2025-03-07,2025-03-11,46,Delayed
+O049,Smartphone,South,2025-03-28,2025-03-31,28,Delivered
+O050,Monitor,South,2025-01-10,2025-01-14,99,In Transit
+O051,Laptop,West,2025-03-30,2025-03-31,38,Delivered
+O052,Monitor,South,2025-02-01,2025-02-02,69,Delayed
+O053,Monitor,West,2025-03-20,2025-03-25,30,Delayed
+O054,Smartphone,East,2025-03-08,2025-03-12,66,Delivered
+O055,Laptop,South,2025-02-10,2025-02-15,29,Delivered
+O056,Monitor,East,2025-01-09,2025-01-13,79,In Transit
+O057,Laptop,West,2025-02-19,2025-02-24,71,Delivered
+O058,Keyboard,South,2025-02-23,2025-02-28,72,Delivered
+O059,Smartphone,West,2025-02-13,2025-02-17,26,Delayed
+O060,Smartphone,West,2025-01-11,2025-01-15,33,Delivered
+O061,Monitor,East,2025-02-11,2025-02-14,63,In Transit
+O062,Smartphone,North,2025-01-07,2025-01-10,93,Delivered
+O063,Smartphone,South,2025-03-21,2025-03-23,70,Delayed
+O064,Keyboard,North,2025-02-17,2025-02-19,30,In Transit
+O065,Monitor,South,2025-03-15,2025-03-19,19,Delayed
+O066,Laptop,North,2025-03-29,2025-04-03,54,Delayed
+O067,Monitor,North,2025-01-02,2025-01-06,65,In Transit
+O068,Tablet,West,2025-01-23,2025-01-28,69,In Transit
+O069,Tablet,West,2025-02-01,2025-02-02,41,In Transit
+O070,Tablet,South,2025-01-04,2025-01-08,72,Delivered
+O071,Keyboard,North,2025-03-18,2025-03-21,76,Delivered
+O072,Monitor,West,2025-03-13,2025-03-15,67,Delivered
+O073,Keyboard,East,2025-02-01,2025-02-04,70,Delayed
+O074,Tablet,East,2025-02-15,2025-02-19,42,Delivered
+O075,Smartphone,South,2025-03-10,2025-03-12,71,In Transit
+O076,Smartphone,East,2025-02-06,2025-02-07,39,In Transit
+O077,Laptop,North,2025-01-17,2025-01-20,80,In Transit
+O078,Laptop,East,2025-03-04,2025-03-05,70,In Transit
+O079,Laptop,North,2025-02-02,2025-02-06,61,In Transit
+O080,Keyboard,East,2025-01-20,2025-01-22,20,Delivered
+O081,Smartphone,West,2025-03-18,2025-03-23,67,In Transit
+O082,Keyboard,North,2025-03-21,2025-03-22,36,Delayed
+O083,Laptop,South,2025-01-23,2025-01-28,10,In Transit
+O084,Tablet,East,2025-01-05,2025-01-07,99,In Transit
+O085,Smartphone,West,2025-03-22,2025-03-27,24,Delayed
+O086,Smartphone,East,2025-01-10,2025-01-11,86,Delayed
+O087,Tablet,West,2025-03-31,2025-04-04,66,Delivered
+O088,Tablet,North,2025-02-11,2025-02-16,21,Delivered
+O089,Keyboard,North,2025-03-28,2025-03-31,32,In Transit
+O090,Monitor,West,2025-01-24,2025-01-29,21,In Transit
+O091,Tablet,West,2025-01-14,2025-01-16,98,In Transit
+O092,Monitor,North,2025-03-12,2025-03-13,50,In Transit
+O093,Keyboard,West,2025-03-07,2025-03-08,62,Delivered
+O094,Laptop,South,2025-03-05,2025-03-09,44,Delayed
+O095,Keyboard,South,2025-01-16,2025-01-17,100,Delivered
+O096,Laptop,West,2025-01-12,2025-01-14,25,Delayed
+O097,Monitor,South,2025-02-23,2025-02-27,68,Delayed
+O098,Monitor,East,2025-01-09,2025-01-12,74,In Transit
+O099,Monitor,South,2025-03-17,2025-03-22,67,Delayed
+O100,Smartphone,South,2025-02-28,2025-03-03,83,In Transit
+O101,Monitor,South,2025-03-02,2025-03-06,73,Delivered
+O102,Laptop,West,2025-01-13,2025-01-17,11,Delayed
+O103,Tablet,East,2025-01-10,2025-01-14,89,Delayed
+O104,Keyboard,North,2025-02-10,2025-02-14,89,Delivered
+O105,Monitor,North,2025-01-30,2025-01-31,91,Delayed
+O106,Laptop,East,2025-01-06,2025-01-09,55,In Transit
+O107,Smartphone,South,2025-03-14,2025-03-16,20,Delayed
+O108,Tablet,West,2025-01-30,2025-02-03,42,Delayed
+O109,Tablet,East,2025-01-10,2025-01-14,91,In Transit
+O110,Monitor,North,2025-01-26,2025-01-30,40,In Transit
+O111,Laptop,West,2025-03-31,2025-04-03,45,Delivered
+O112,Monitor,East,2025-01-07,2025-01-12,39,Delayed
+O113,Laptop,North,2025-03-28,2025-03-30,49,In Transit
+O114,Tablet,West,2025-01-12,2025-01-15,32,Delivered
+O115,Tablet,South,2025-03-09,2025-03-14,42,In Transit
+O116,Laptop,South,2025-01-15,2025-01-19,38,Delayed
+O117,Laptop,East,2025-01-12,2025-01-16,78,Delivered
+O118,Monitor,East,2025-02-03,2025-02-08,23,Delayed
+O119,Laptop,West,2025-03-20,2025-03-22,99,In Transit
+O120,Monitor,North,2025-01-05,2025-01-08,22,Delivered
+O121,Monitor,South,2025-03-27,2025-04-01,63,Delayed
+O122,Smartphone,West,2025-01-05,2025-01-08,66,Delivered
+O123,Laptop,West,2025-03-24,2025-03-27,45,Delivered
+O124,Laptop,North,2025-03-24,2025-03-29,52,Delivered
+O125,Keyboard,South,2025-03-12,2025-03-14,39,In Transit
+O126,Keyboard,East,2025-01-19,2025-01-21,32,Delivered
+O127,Tablet,North,2025-01-31,2025-02-05,32,In Transit
+O128,Monitor,West,2025-01-15,2025-01-16,56,Delayed
+O129,Tablet,West,2025-03-26,2025-03-31,92,Delivered
+O130,Monitor,West,2025-03-29,2025-03-30,19,Delivered
+O131,Keyboard,East,2025-02-05,2025-02-10,58,Delayed
+O132,Keyboard,South,2025-01-13,2025-01-14,65,In Transit
+O133,Laptop,East,2025-02-21,2025-02-25,64,In Transit
+O134,Laptop,North,2025-03-29,2025-04-02,20,Delivered
+O135,Laptop,East,2025-01-17,2025-01-22,95,Delivered
+O136,Tablet,East,2025-02-24,2025-02-25,55,Delivered
+O137,Laptop,East,2025-03-03,2025-03-05,81,In Transit
+O138,Keyboard,North,2025-02-24,2025-03-01,87,Delayed
+O139,Laptop,South,2025-02-13,2025-02-16,28,Delayed
+O140,Smartphone,West,2025-01-12,2025-01-17,63,In Transit
+O141,Keyboard,North,2025-02-11,2025-02-16,16,Delivered
+O142,Monitor,West,2025-02-04,2025-02-08,87,In Transit
+O143,Monitor,North,2025-01-15,2025-01-18,46,Delayed
+O144,Monitor,North,2025-01-06,2025-01-08,10,Delivered
+O145,Tablet,North,2025-02-02,2025-02-05,10,In Transit
+O146,Keyboard,East,2025-03-10,2025-03-12,19,In Transit
+O147,Keyboard,West,2025-01-10,2025-01-13,83,In Transit
+O148,Tablet,South,2025-02-21,2025-02-22,89,In Transit
+O149,Monitor,West,2025-01-14,2025-01-16,77,Delivered
+O150,Laptop,North,2025-02-12,2025-02-14,77,Delayed
+O151,Smartphone,East,2025-01-31,2025-02-01,35,Delivered
+O152,Monitor,West,2025-01-10,2025-01-12,82,Delayed
+O153,Smartphone,West,2025-03-22,2025-03-25,18,In Transit
+O154,Tablet,North,2025-03-17,2025-03-18,49,In Transit
+O155,Laptop,West,2025-02-06,2025-02-07,69,Delayed
+O156,Monitor,South,2025-02-11,2025-02-16,17,In Transit
+O157,Laptop,South,2025-03-24,2025-03-26,100,In Transit
+O158,Tablet,West,2025-02-16,2025-02-19,62,In Transit
+O159,Laptop,East,2025-03-24,2025-03-27,22,Delayed
+O160,Keyboard,South,2025-02-12,2025-02-13,54,In Transit
+O161,Tablet,West,2025-03-18,2025-03-19,92,In Transit
+O162,Laptop,West,2025-03-29,2025-04-03,75,In Transit
+O163,Monitor,South,2025-01-28,2025-01-31,38,Delivered
+O164,Keyboard,North,2025-01-13,2025-01-18,94,In Transit
+O165,Keyboard,South,2025-01-21,2025-01-23,66,Delivered
+O166,Tablet,West,2025-02-26,2025-03-03,39,Delayed
+O167,Monitor,West,2025-02-17,2025-02-22,46,In Transit
+O168,Smartphone,East,2025-01-26,2025-01-31,16,Delayed
+O169,Smartphone,East,2025-02-06,2025-02-07,67,Delayed
+O170,Laptop,West,2025-02-27,2025-03-02,16,In Transit
+O171,Smartphone,North,2025-01-11,2025-01-14,50,Delivered
+O172,Tablet,West,2025-01-18,2025-01-19,99,Delivered
+O173,Tablet,South,2025-01-11,2025-01-12,29,Delayed
+O174,Laptop,North,2025-01-31,2025-02-03,40,In Transit
+O175,Keyboard,North,2025-03-05,2025-03-10,90,Delayed
+O176,Tablet,South,2025-01-01,2025-01-06,83,In Transit
+O177,Keyboard,North,2025-02-16,2025-02-17,59,In Transit
+O178,Tablet,North,2025-02-02,2025-02-03,54,Delivered
+O179,Smartphone,North,2025-03-16,2025-03-19,55,Delayed
+O180,Smartphone,South,2025-03-31,2025-04-04,18,Delayed
+O181,Tablet,West,2025-01-06,2025-01-09,79,In Transit
+O182,Laptop,East,2025-02-06,2025-02-09,44,Delivered
+O183,Tablet,South,2025-02-26,2025-03-02,73,Delayed
+O184,Laptop,West,2025-01-11,2025-01-15,87,Delivered
+O185,Tablet,West,2025-02-11,2025-02-14,87,Delayed
+O186,Keyboard,West,2025-01-06,2025-01-09,45,Delayed
+O187,Laptop,South,2025-03-07,2025-03-09,87,Delayed
+O188,Keyboard,North,2025-02-16,2025-02-20,87,Delivered
+O189,Smartphone,East,2025-01-10,2025-01-15,60,In Transit
+O190,Monitor,West,2025-01-04,2025-01-06,81,Delivered
+O191,Monitor,South,2025-03-20,2025-03-23,25,Delivered
+O192,Tablet,East,2025-02-26,2025-02-27,100,Delivered
+O193,Tablet,South,2025-01-21,2025-01-23,25,Delivered
+O194,Keyboard,East,2025-02-16,2025-02-21,69,Delayed
+O195,Keyboard,West,2025-02-20,2025-02-24,62,Delayed
+O196,Tablet,South,2025-03-01,2025-03-06,80,Delayed
+O197,Laptop,South,2025-03-06,2025-03-07,48,Delivered
+O198,Laptop,East,2025-03-08,2025-03-11,35,Delayed
+O199,Keyboard,South,2025-03-06,2025-03-08,31,Delayed
+O200,Laptop,East,2025-01-04,2025-01-05,93,Delivered
+O201,Tablet,East,2025-03-05,2025-03-10,71,Delivered
+O202,Smartphone,West,2025-03-30,2025-03-31,63,In Transit
+O203,Tablet,West,2025-02-10,2025-02-13,26,In Transit
+O204,Tablet,West,2025-03-01,2025-03-02,41,Delivered
+O205,Smartphone,South,2025-03-20,2025-03-24,51,Delayed
+O206,Monitor,East,2025-03-07,2025-03-11,73,Delivered
+O207,Keyboard,East,2025-01-31,2025-02-02,16,Delivered
+O208,Tablet,North,2025-03-25,2025-03-29,23,In Transit
+O209,Laptop,West,2025-02-21,2025-02-24,16,Delayed
+O210,Monitor,East,2025-02-19,2025-02-24,89,Delayed
+O211,Keyboard,East,2025-02-17,2025-02-20,28,Delivered
+O212,Smartphone,East,2025-01-06,2025-01-07,70,Delayed
+O213,Tablet,South,2025-02-11,2025-02-16,60,Delayed
+O214,Tablet,West,2025-04-01,2025-04-06,12,In Transit
+O215,Laptop,West,2025-03-16,2025-03-19,43,Delayed
+O216,Keyboard,West,2025-01-22,2025-01-27,28,Delayed
+O217,Monitor,East,2025-01-25,2025-01-26,63,Delivered
+O218,Laptop,South,2025-03-20,2025-03-24,76,Delivered
+O219,Smartphone,West,2025-02-18,2025-02-21,78,In Transit
+O220,Keyboard,West,2025-03-29,2025-04-01,34,Delivered
+O221,Smartphone,West,2025-02-08,2025-02-11,50,In Transit
+O222,Keyboard,West,2025-02-06,2025-02-07,60,In Transit
+O223,Monitor,East,2025-01-11,2025-01-14,71,Delivered
+O224,Smartphone,North,2025-03-31,2025-04-03,88,Delayed
+O225,Laptop,North,2025-03-23,2025-03-25,62,In Transit
+O226,Keyboard,South,2025-01-18,2025-01-19,62,Delayed
+O227,Laptop,North,2025-02-11,2025-02-14,93,Delayed
+O228,Smartphone,North,2025-01-23,2025-01-27,60,In Transit
+O229,Tablet,North,2025-01-05,2025-01-06,52,In Transit
+O230,Monitor,East,2025-01-18,2025-01-23,34,Delivered
+O231,Laptop,East,2025-02-02,2025-02-04,47,Delayed
+O232,Tablet,North,2025-02-24,2025-03-01,61,Delayed
+O233,Monitor,South,2025-01-01,2025-01-04,67,In Transit
+O234,Tablet,South,2025-01-02,2025-01-05,17,Delayed
+O235,Tablet,East,2025-03-30,2025-03-31,88,Delivered
+O236,Monitor,West,2025-03-19,2025-03-22,78,Delayed
+O237,Keyboard,East,2025-03-09,2025-03-13,19,Delayed
+O238,Smartphone,South,2025-03-15,2025-03-20,51,Delayed
+O239,Monitor,North,2025-01-12,2025-01-17,68,Delivered
+O240,Tablet,North,2025-03-13,2025-03-17,60,In Transit
+O241,Tablet,North,2025-01-06,2025-01-10,79,Delivered
+O242,Monitor,East,2025-01-24,2025-01-26,58,In Transit
+O243,Smartphone,East,2025-03-26,2025-03-31,25,Delivered
+O244,Laptop,East,2025-01-29,2025-01-30,69,Delayed
+O245,Tablet,South,2025-02-01,2025-02-05,45,Delivered
+O246,Laptop,South,2025-02-23,2025-02-28,36,Delivered
+O247,Smartphone,North,2025-03-28,2025-03-29,61,In Transit
+O248,Keyboard,East,2025-01-08,2025-01-10,39,Delayed
+O249,Smartphone,South,2025-01-31,2025-02-03,62,In Transit
+O250,Keyboard,West,2025-01-23,2025-01-27,16,In Transit
+O251,Monitor,South,2025-02-10,2025-02-14,48,In Transit
+O252,Smartphone,West,2025-01-29,2025-02-01,17,Delayed
+O253,Smartphone,East,2025-02-01,2025-02-04,92,Delivered
+O254,Tablet,West,2025-01-25,2025-01-26,96,Delayed
+O255,Tablet,East,2025-03-03,2025-03-05,11,Delivered
+O256,Keyboard,South,2025-03-03,2025-03-05,60,Delivered
+O257,Tablet,East,2025-03-01,2025-03-06,43,In Transit
+O258,Smartphone,East,2025-03-02,2025-03-05,50,In Transit
+O259,Tablet,West,2025-01-19,2025-01-20,47,Delivered
+O260,Keyboard,East,2025-02-01,2025-02-05,42,In Transit
+O261,Smartphone,South,2025-01-22,2025-01-25,79,In Transit
+O262,Laptop,North,2025-03-09,2025-03-10,10,In Transit
+O263,Smartphone,West,2025-01-20,2025-01-21,57,Delivered
+O264,Laptop,North,2025-03-03,2025-03-07,78,Delayed
+O265,Laptop,West,2025-03-10,2025-03-13,32,Delivered
+O266,Tablet,East,2025-03-21,2025-03-26,44,In Transit
+O267,Tablet,North,2025-02-01,2025-02-03,93,Delayed
+O268,Smartphone,North,2025-01-08,2025-01-09,73,In Transit
+O269,Laptop,South,2025-01-13,2025-01-18,37,Delayed
+O270,Keyboard,North,2025-03-29,2025-04-01,32,In Transit
+O271,Tablet,South,2025-02-20,2025-02-21,82,Delivered
+O272,Smartphone,North,2025-02-12,2025-02-16,74,Delayed
+O273,Keyboard,West,2025-02-13,2025-02-18,51,Delivered
+O274,Tablet,West,2025-03-04,2025-03-06,65,Delivered
+O275,Smartphone,North,2025-03-21,2025-03-24,20,In Transit
+O276,Tablet,East,2025-01-20,2025-01-24,23,Delivered
+O277,Smartphone,North,2025-02-04,2025-02-05,33,In Transit
+O278,Laptop,East,2025-01-14,2025-01-15,80,Delivered
+O279,Tablet,West,2025-02-19,2025-02-20,59,Delivered
+O280,Keyboard,South,2025-02-01,2025-02-06,97,In Transit
+O281,Laptop,South,2025-03-05,2025-03-07,65,In Transit
+O282,Smartphone,West,2025-02-16,2025-02-19,86,Delayed
+O283,Keyboard,West,2025-02-20,2025-02-23,52,In Transit
+O284,Smartphone,East,2025-03-25,2025-03-30,51,Delayed
+O285,Monitor,South,2025-02-10,2025-02-13,51,In Transit
+O286,Keyboard,South,2025-03-14,2025-03-16,97,Delayed
+O287,Laptop,West,2025-02-26,2025-03-01,96,In Transit
+O288,Monitor,West,2025-03-26,2025-03-28,19,In Transit
+O289,Keyboard,North,2025-03-06,2025-03-10,56,Delayed
+O290,Smartphone,North,2025-02-01,2025-02-04,82,Delayed
+O291,Laptop,North,2025-02-25,2025-02-26,43,Delivered
+O292,Smartphone,West,2025-03-30,2025-04-04,57,In Transit
+O293,Laptop,West,2025-01-20,2025-01-23,23,In Transit
+O294,Tablet,East,2025-01-19,2025-01-22,68,Delivered
+O295,Tablet,North,2025-02-26,2025-03-02,48,Delivered
+O296,Smartphone,South,2025-03-24,2025-03-25,76,Delivered
+O297,Monitor,South,2025-03-01,2025-03-03,33,Delayed
+O298,Monitor,West,2025-02-27,2025-03-04,10,Delayed
+O299,Keyboard,South,2025-03-15,2025-03-16,56,In Transit
+O300,Tablet,West,2025-03-04,2025-03-09,88,In Transit

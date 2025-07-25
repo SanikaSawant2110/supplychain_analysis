@@ -1,0 +1,6 @@
+Supplier_ID,Product,Lead_Time_Days,Reliability (%)
+SUP001,Laptop,7,91
+SUP002,Smartphone,2,94
+SUP003,Tablet,3,93
+SUP004,Monitor,3,91
+SUP005,Keyboard,7,98

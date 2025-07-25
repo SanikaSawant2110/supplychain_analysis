@@ -1,0 +1,16 @@
+Product,Warehouse,Stock_Level,Reorder_Level,Last_Refill,Expiry_Date
+Laptop,Mumbai,72,50,2024-12-22,
+Laptop,Delhi,158,50,2024-12-31,
+Laptop,Bangalore,57,50,2024-12-30,
+Smartphone,Mumbai,105,50,2024-12-28,2026-01-01
+Smartphone,Delhi,179,50,2024-12-22,2026-01-01
+Smartphone,Bangalore,56,50,2024-12-23,2026-01-01
+Tablet,Mumbai,100,50,2024-12-23,2026-01-01
+Tablet,Delhi,157,50,2024-12-28,2026-01-01
+Tablet,Bangalore,164,50,2024-12-22,2026-01-01
+Monitor,Mumbai,121,50,2024-12-31,
+Monitor,Delhi,90,50,2024-12-25,
+Monitor,Bangalore,137,50,2024-12-27,
+Keyboard,Mumbai,89,50,2024-12-28,
+Keyboard,Delhi,136,50,2024-12-30,
+Keyboard,Bangalore,73,50,2024-12-25,
